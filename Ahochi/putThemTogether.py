@@ -1,5 +1,9 @@
+# broken
+
 import json
-json_data = open('TriStateFileIntAlt').read()
+import os
+
+json_data = open(os.path.join(os.path.dirname(__file__), 'TriStateFileIntAlt')).read()
 data = json.loads(json_data)
 
 print(data)

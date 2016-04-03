@@ -10,5 +10,5 @@ SPIDER_MODULES = ['Ahochi.spiders']
 NEWSPIDER_MODULE = 'Ahochi.spiders'
 DEFAULT_ITEM_CLASS = 'Ahochi.items.LocationCrawlerItem'
 
-#To stop it from getting stuck on an infinite loop
-DEPTH_LIMIT = 64 
+# To stop it from getting stuck on an infinite loop
+DEPTH_LIMIT = 64

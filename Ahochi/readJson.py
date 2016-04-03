@@ -1,12 +1,9 @@
+# fixed but doesn't do anything
+
 import json
+import os
 from pprint import pprint
 
-json_data=open('C:\Users\Austin\Documents\Scrapy\dirbot-master\Ahochi\spiders\output3.json').read()
+json_data = open(os.path.join(os.path.dirname(__file__), 'spiders\output3.json')).read()
 data = json.loads(json_data)
-
-
-keywords = data["keywords"][0]
-print keywords
-
 pprint(data)
-
