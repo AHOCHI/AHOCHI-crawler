@@ -19,12 +19,7 @@ class GeographicInfo():
                "41033", "41092", "41091", "41094", "41042", "41005", "41048", "41080", "41076",
                "41001", "41007", "41059", "41071", "41073", "41074", "41075"]
 
-    ky_city_list = ["Adairville",
-                    "Albany",
-                    "Alexandria",
-                    "Allen",
-                    "Allensville",
-                    "Anchorage",
+    ky_city_list = ["Adairville", "Albany", "Alexandria", "Allen", "Allensville", "Anchorage",
                     "Arlington",
                     "Ashland",
                     "Auburn",
@@ -454,12 +449,13 @@ class GeographicInfo():
 
     @staticmethod
     def make_keywords():
-        # A loops that repeatably asks the user for input untill he/she inputs "no"
-        keyword_list = []
-        while True:
-            user_input = raw_input("Enter a Keyword, type q to end: ")
-            if user_input != 'q':
-                keyword_list.append(user_input)
-            else:
-                break
-        return keyword_list
+        return ["charity"]
+        # # A loops that repeatably asks the user for input until he/she inputs "no"
+        # keyword_list = []
+        # while True:
+        #     user_input = raw_input("Enter a Keyword, type q to end: ")
+        #     if user_input != 'q':
+        #         keyword_list.append(user_input)
+        #     else:
+        #         break
+        # return keyword_list

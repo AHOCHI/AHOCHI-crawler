@@ -3,8 +3,15 @@ from scrapy.selector import Selector
 from google import search
 from Ahochi.items import LocationCrawlerItem
 from Ahochi.geographic_info import GeographicInfo
+import usaddress
 import re
+import html2text
 
+from sumy.parsers.html import HtmlParser
+from sumy.nlp.tokenizers import Tokenizer
+from sumy.summarizers.lsa import LsaSummarizer as Summarizer
+from sumy.nlp.stemmers import Stemmer
+from sumy.utils import get_stop_words
 
 class LocationSpider(Spider):
     # name of the spider
@@ -37,6 +44,16 @@ class LocationSpider(Spider):
         # saves a regex statement searching for specific zip codes to a variable
         nky_zip_regex = re.compile(r'\b(' + '|'.join(LocationSpider.zip_codes) + r')', re.IGNORECASE)
 
+        # LANGUAGE = "english"
+        # SENTENCES_COUNT = 10
+        # parser = HtmlParser.from_string(response.body, self.url, Tokenizer(LANGUAGE))
+        # stemmer = Stemmer(LANGUAGE)
+        # summarizer = Summarizer(stemmer)
+        # summarizer.stop_words = get_stop_words(LANGUAGE)
+        #
+        # for sentence in summarizer(parser.document, SENTENCES_COUNT):
+        #     print(sentence)
+
         # goes through a loop looking at each url found on google results
         for current in sites:
             # creates an object to store items
@@ -44,13 +61,15 @@ class LocationSpider(Spider):
             # looks for sites with specific zip codes
             zip_string = re.search(nky_zip_regex, current.extract())
 
+            # print html2text.html2text(response.body)
+
             # Creates a regex statement stored as a variable and uses it
             keyword_regex = re.compile(r'\b(' + '|'.join(LocationSpider.keywordList) + r')', re.IGNORECASE)
             keyword_string = re.search(keyword_regex, current.extract())
 
             # For debugging
-            print keyword_regex.pattern
-            print keyword_string.group
+            # print keyword_regex.pattern
+            # print keyword_string.group
 
             # If it finds a keyword, it stores it as a keyword in the item object
             if keyword_string:
@@ -79,34 +98,38 @@ class LocationSpider(Spider):
                 # if it finds a state abbreviation, it stores it as state in the item object
                 if state_abb_string:
                     item["state"] = "Ky"
-                    print (item["state"])
+                    # print (item["state"])
                     temp_address_str = state_abb_string.group()
-                    print temp_address_str
+                    # print temp_address_str
                 # if it finds a state name, it stores as state in the item object
                 elif state_proper_string:
                     item["state"] = "Kentucky"
-                    print (item["state"])
+                    # print (item["state"])
                     temp_address_str = state_proper_string.group()
-                    print temp_address_str
+                    # print temp_address_str
                 # if it doesn't find either it stores the state field with "none"
                 else:
                     item["state"] = None
                     temp_address_str = None
 
-                # saves a regex statement looking for cities to a variable and then runs it
-                city_regex = re.compile(
-                    r'\b(' + '|'.join(LocationSpider.cities) + '[,]? ' + re.escape(temp_address_str) + r')',
-                    re.IGNORECASE)
-                city_string = re.search(city_regex, current.extract())
+                city_string = None
+                if temp_address_str:
+                    # saves a regex statement looking for cities to a variable and then runs it
+                    city_regex = re.compile(
+                        r'\b('
+                        + '|'.join(LocationSpider.cities)
+                        + '[,]? '
+                        + re.escape(temp_address_str) + r')', re.IGNORECASE)
+                    city_string = re.search(city_regex, current.extract())
 
                 # for debugging purposes
-                print city_regex.pattern
-                print city_string.group()
+                # print city_regex.pattern
+                # print city_string.group()
 
                 # Stores the city name into the city item
                 if city_string:
                     item["city"] = city_string.group()
-                    print (item["city"])
+                    # print (item["city"])
                 # Stores the item object into the items list
                 items.append(item)
             else:

@@ -1,40 +1,372 @@
-[{"url": "http://dss.mo.gov/cd/office/boone.htm", "page_title": ["Boone County Contacts | Children\u2019s Division | Missouri Department of Social Services"], "zip": "nothing", "keyword": "Free"},
-{"url": "http://chfs.ky.gov/dail/nkadd.htm", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "zip": "nothing", "keyword": "Family"},
-{"url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "zip": "41005", "keyword": "nothing"},
-{"city": "Florence", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41042", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"city": "Walton", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41094", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"city": "Highland Heights", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41076", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"city": "Newport", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41071", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"city": "Newport", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41071", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"city": "Elsmere", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41018", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"city": "Covington", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41011", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"city": "Ludlow", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41016", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"city": "Covington", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41011", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"city": "Covington", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41011", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "zip": "41075", "keyword": "nothing"},
-{"city": "Covington", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41011", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"city": "Erlanger", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41018", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"city": "Newport", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41071", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"city": "Florence", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41042", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"city": "Walton", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41094", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"city": "Florence", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41042", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"city": "Edgewood", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41017", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"city": "Alexandria", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41001", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"city": "Covington", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41011", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"city": "Covington", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41011", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"city": "Covington", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41011", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"city": "Florence", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41042", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"city": "Newport", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41071", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"city": "Florence", "page_title": ["Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"], "keyword": "nothing", "zip": "41042", "url": "http://chfs.ky.gov/dail/nkadd.htm", "state": "Ky"},
-{"url": "http://www.co.boone.ia.us/index.aspx?page=99", "page_title": ["Boone County, IA : Boone County Community Services"], "zip": "nothing", "keyword": "Free"},
-{"url": "http://www.co.boone.ia.us/index.aspx?page=99", "page_title": ["Boone County, IA : Boone County Community Services"], "zip": "nothing", "keyword": "Free"},
-{"url": "http://www.co.boone.ia.us/index.aspx?page=99", "page_title": ["Boone County, IA : Boone County Community Services"], "zip": "nothing", "keyword": "family"},
-{"url": "http://www.co.boone.ia.us/index.aspx?page=99", "page_title": ["Boone County, IA : Boone County Community Services"], "zip": "nothing", "keyword": "Free"},
-{"url": "http://www.co.boone.ia.us/index.aspx?page=421", "page_title": ["Boone County, IA : Iowa Department of Human Services"], "zip": "nothing", "keyword": "Free"},
-{"url": "http://www.co.boone.ia.us/index.aspx?page=421", "page_title": ["Boone County, IA : Iowa Department of Human Services"], "zip": "nothing", "keyword": "Free"},
-{"url": "http://www.co.boone.ia.us/index.aspx?page=421", "page_title": ["Boone County, IA : Iowa Department of Human Services"], "zip": "nothing", "keyword": "family"},
-{"url": "http://in.gov/fssa/dfr/3191.htm", "page_title": ["FSSA: Boone County"], "zip": "nothing", "keyword": "Family"},
-{"url": "http://in.gov/fssa/dfr/3191.htm", "page_title": ["FSSA: Boone County"], "zip": "nothing", "keyword": "Family"},
-{"url": "http://in.gov/fssa/dfr/3191.htm", "page_title": ["FSSA: Boone County"], "zip": "nothing", "keyword": "Family"},
-{"url": "http://www.wcpo.com/news/local-news/boone-county/boone-county-social-workers-lose-more-than-90-cases-of-possible-child-abuse", "page_title": ["Boone County social workers lose more than 90 cases of possible child abuse - Story"], "zip": "nothing", "keyword": "Family"},
-{"url": "http://www.wcpo.com/news/local-news/boone-county/boone-county-social-workers-lose-more-than-90-cases-of-possible-child-abuse", "page_title": ["Boone County social workers lose more than 90 cases of possible child abuse - Story"], "zip": "nothing", "keyword": "family"}]
+[
+  {
+    "url": "http://dss.mo.gov/cd/office/boone.htm",
+    "page_title": [
+      "Boone County Contacts | Children\u2019s Division | Missouri Department of Social Services"
+    ],
+    "zip": "nothing",
+    "keyword": "Free"
+  },
+  {
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "zip": "nothing",
+    "keyword": "Family"
+  },
+  {
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "zip": "41005",
+    "keyword": "nothing"
+  },
+  {
+    "city": "Florence",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41042",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "city": "Walton",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41094",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "city": "Highland Heights",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41076",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "city": "Newport",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41071",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "city": "Newport",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41071",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "city": "Elsmere",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41018",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "city": "Covington",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41011",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "city": "Ludlow",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41016",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "city": "Covington",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41011",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "city": "Covington",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41011",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "zip": "41075",
+    "keyword": "nothing"
+  },
+  {
+    "city": "Covington",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41011",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "city": "Erlanger",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41018",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "city": "Newport",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41071",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "city": "Florence",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41042",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "city": "Walton",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41094",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "city": "Florence",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41042",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "city": "Edgewood",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41017",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "city": "Alexandria",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41001",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "city": "Covington",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41011",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "city": "Covington",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41011",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "city": "Covington",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41011",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "city": "Florence",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41042",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "city": "Newport",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41071",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "city": "Florence",
+    "page_title": [
+      "Kentucky: Cabinet for Health and Family Services - Northern Kentucky AAA"
+    ],
+    "keyword": "nothing",
+    "zip": "41042",
+    "url": "http://chfs.ky.gov/dail/nkadd.htm",
+    "state": "Ky"
+  },
+  {
+    "url": "http://www.co.boone.ia.us/index.aspx?page=99",
+    "page_title": [
+      "Boone County, IA : Boone County Community Services"
+    ],
+    "zip": "nothing",
+    "keyword": "Free"
+  },
+  {
+    "url": "http://www.co.boone.ia.us/index.aspx?page=99",
+    "page_title": [
+      "Boone County, IA : Boone County Community Services"
+    ],
+    "zip": "nothing",
+    "keyword": "Free"
+  },
+  {
+    "url": "http://www.co.boone.ia.us/index.aspx?page=99",
+    "page_title": [
+      "Boone County, IA : Boone County Community Services"
+    ],
+    "zip": "nothing",
+    "keyword": "family"
+  },
+  {
+    "url": "http://www.co.boone.ia.us/index.aspx?page=99",
+    "page_title": [
+      "Boone County, IA : Boone County Community Services"
+    ],
+    "zip": "nothing",
+    "keyword": "Free"
+  },
+  {
+    "url": "http://www.co.boone.ia.us/index.aspx?page=421",
+    "page_title": [
+      "Boone County, IA : Iowa Department of Human Services"
+    ],
+    "zip": "nothing",
+    "keyword": "Free"
+  },
+  {
+    "url": "http://www.co.boone.ia.us/index.aspx?page=421",
+    "page_title": [
+      "Boone County, IA : Iowa Department of Human Services"
+    ],
+    "zip": "nothing",
+    "keyword": "Free"
+  },
+  {
+    "url": "http://www.co.boone.ia.us/index.aspx?page=421",
+    "page_title": [
+      "Boone County, IA : Iowa Department of Human Services"
+    ],
+    "zip": "nothing",
+    "keyword": "family"
+  },
+  {
+    "url": "http://in.gov/fssa/dfr/3191.htm",
+    "page_title": [
+      "FSSA: Boone County"
+    ],
+    "zip": "nothing",
+    "keyword": "Family"
+  },
+  {
+    "url": "http://in.gov/fssa/dfr/3191.htm",
+    "page_title": [
+      "FSSA: Boone County"
+    ],
+    "zip": "nothing",
+    "keyword": "Family"
+  },
+  {
+    "url": "http://in.gov/fssa/dfr/3191.htm",
+    "page_title": [
+      "FSSA: Boone County"
+    ],
+    "zip": "nothing",
+    "keyword": "Family"
+  },
+  {
+    "url": "http://www.wcpo.com/news/local-news/boone-county/boone-county-social-workers-lose-more-than-90-cases-of-possible-child-abuse",
+    "page_title": [
+      "Boone County social workers lose more than 90 cases of possible child abuse - Story"
+    ],
+    "zip": "nothing",
+    "keyword": "Family"
+  },
+  {
+    "url": "http://www.wcpo.com/news/local-news/boone-county/boone-county-social-workers-lose-more-than-90-cases-of-possible-child-abuse",
+    "page_title": [
+      "Boone County social workers lose more than 90 cases of possible child abuse - Story"
+    ],
+    "zip": "nothing",
+    "keyword": "family"
+  }
+]

@@ -1,3 +1,5 @@
 scrapy
 sumy
 google
+usaddress
+html2text
